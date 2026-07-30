@@ -1,0 +1,6 @@
+{
+  "name": "Contador",
+  "description": "Aplicación de contador táctil en pantalla completa con botón de reinicio y efectos de pulsación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
